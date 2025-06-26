@@ -1,6 +1,6 @@
 # cppscript
 
-This light library brings a handful of Typescript-Style classes to C++.
+This light library brings a handful of Typescript-style classes to C++.
 Hopefully the result is a smoother less painful development experience in C++, minus bloated dependencies. 
 
 1. Array
